@@ -1,0 +1,8 @@
+---
+- name: Pulling docker image of calculator
+  hosts: all
+  tasks:
+    - name: Pull calculator image
+      docker_image:
+      name: sag1707/calculator_devops
+        source: pull
