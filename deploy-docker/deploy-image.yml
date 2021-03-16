@@ -4,5 +4,5 @@
   tasks:
     - name: Pull calculator image
       docker_image:
-      name: sag1707/calculator_devops
+        name: sag1707/calculator_devops
         source: pull
