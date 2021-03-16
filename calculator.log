@@ -1,0 +1,46 @@
+16/Mar/2021:22:49:42 089 [Calculator.java] [INFO] Calculator [Factorial] : -6.0
+16/Mar/2021:22:49:42 092 [Calculator.java] [INFO] Calculator [Result - Factorial] : NaN
+16/Mar/2021:22:49:42 093 [Calculator.java] [INFO] Calculator [square root] : 64.0
+16/Mar/2021:22:49:42 093 [Calculator.java] [INFO] Calculator [RESULT - square root] : 8.0
+16/Mar/2021:22:49:42 093 [Calculator.java] [INFO] Calculator [square root] : 121.0
+16/Mar/2021:22:49:42 094 [Calculator.java] [INFO] Calculator [RESULT - square root] : 11.0
+16/Mar/2021:22:49:42 095 [Calculator.java] [INFO] Calculator [natural log] : 10.0
+16/Mar/2021:22:49:42 095 [Calculator.java] [INFO] Calculator [RESULT - natural log] : 2.302585092994046
+16/Mar/2021:22:49:42 096 [Calculator.java] [INFO] Calculator [natural log] : 8.2
+16/Mar/2021:22:49:42 096 [Calculator.java] [INFO] Calculator [RESULT - natural log] : 2.1041341542702074
+16/Mar/2021:22:49:42 099 [Calculator.java] [INFO] Calculator [natural log] : 8.0
+16/Mar/2021:22:49:42 100 [Calculator.java] [INFO] Calculator [RESULT - natural log] : 2.0794415416798357
+16/Mar/2021:22:49:42 101 [Calculator.java] [INFO] Calculator [natural log] : 46.4
+16/Mar/2021:22:49:42 101 [Calculator.java] [INFO] Calculator [RESULT - natural log] : 3.8372994592322094
+16/Mar/2021:22:49:42 102 [Calculator.java] [INFO] Calculator [natural log] : Infinity
+16/Mar/2021:22:49:42 102 [Calculator.java] [INFO] Calculator [RESULT - natural log] : Infinity
+16/Mar/2021:22:49:42 103 [Calculator.java] [INFO] Calculator [powerofnum] : (2.0,3.0)
+16/Mar/2021:22:49:42 104 [Calculator.java] [INFO] Calculator [RESULT - powerofnum] : 8.0
+16/Mar/2021:22:49:42 104 [Calculator.java] [INFO] Calculator [powerofnum] : (2.1,1.2)
+16/Mar/2021:22:49:42 104 [Calculator.java] [INFO] Calculator [RESULT - powerofnum] : 2.4359207431734027
+16/Mar/2021:22:49:42 105 [Calculator.java] [INFO] Calculator [Factorial] : 2.0
+16/Mar/2021:22:49:42 106 [Calculator.java] [INFO] Calculator [Result - Factorial] : 2.0
+16/Mar/2021:22:49:42 106 [Calculator.java] [INFO] Calculator [Factorial] : 8.0
+16/Mar/2021:22:49:42 107 [Calculator.java] [INFO] Calculator [Result - Factorial] : 40320.0
+16/Mar/2021:22:49:42 108 [Calculator.java] [INFO] Calculator [Factorial] : 8.8
+16/Mar/2021:22:49:42 108 [Calculator.java] [INFO] Calculator [Result - Factorial] : NaN
+16/Mar/2021:22:49:42 110 [Calculator.java] [INFO] Calculator [powerofnum] : (3.0,3.0)
+16/Mar/2021:22:49:42 111 [Calculator.java] [INFO] Calculator [RESULT - powerofnum] : 27.0
+16/Mar/2021:22:49:42 111 [Calculator.java] [INFO] Calculator [powerofnum] : (0.0,0.0)
+16/Mar/2021:22:49:42 111 [Calculator.java] [INFO] Calculator [RESULT - powerofnum] : 1.0
+16/Mar/2021:22:49:42 111 [Calculator.java] [INFO] Calculator [powerofnum] : (2.1,1.2)
+16/Mar/2021:22:49:42 112 [Calculator.java] [INFO] Calculator [RESULT - powerofnum] : 2.4359207431734027
+16/Mar/2021:22:49:42 112 [Calculator.java] [INFO] Calculator [powerofnum] : (1.0,Infinity)
+16/Mar/2021:22:49:42 112 [Calculator.java] [INFO] Calculator [RESULT - powerofnum] : NaN
+16/Mar/2021:22:49:42 113 [Calculator.java] [INFO] Calculator [powerofnum] : (1.0,-Infinity)
+16/Mar/2021:22:49:42 113 [Calculator.java] [INFO] Calculator [RESULT - powerofnum] : NaN
+16/Mar/2021:22:49:42 114 [Calculator.java] [INFO] Calculator [square root] : 9.0
+16/Mar/2021:22:49:42 115 [Calculator.java] [INFO] Calculator [RESULT - square root] : 3.0
+16/Mar/2021:22:49:42 115 [Calculator.java] [INFO] Calculator [square root] : 16.7
+16/Mar/2021:22:49:42 116 [Calculator.java] [INFO] Calculator [RESULT - square root] : 4.08656334834051
+16/Mar/2021:22:49:42 116 [Calculator.java] [INFO] Calculator [Factorial] : 4.0
+16/Mar/2021:22:49:42 117 [Calculator.java] [INFO] Calculator [Result - Factorial] : 24.0
+16/Mar/2021:22:49:42 117 [Calculator.java] [INFO] Calculator [Factorial] : 8.0
+16/Mar/2021:22:49:42 117 [Calculator.java] [INFO] Calculator [Result - Factorial] : 40320.0
+16/Mar/2021:22:49:42 118 [Calculator.java] [INFO] Calculator [Factorial] : 7.7
+16/Mar/2021:22:49:42 118 [Calculator.java] [INFO] Calculator [Result - Factorial] : NaN
